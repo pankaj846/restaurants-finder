@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/projects/restaurants-finder/static/css/main.365ec8f8.chunk.css",
+    "main.js": "/projects/restaurants-finder/static/js/main.d5e8e4ed.chunk.js",
+    "main.js.map": "/projects/restaurants-finder/static/js/main.d5e8e4ed.chunk.js.map",
+    "runtime-main.js": "/projects/restaurants-finder/static/js/runtime-main.f67b3c3f.js",
+    "runtime-main.js.map": "/projects/restaurants-finder/static/js/runtime-main.f67b3c3f.js.map",
+    "static/js/2.01d360e3.chunk.js": "/projects/restaurants-finder/static/js/2.01d360e3.chunk.js",
+    "static/js/2.01d360e3.chunk.js.map": "/projects/restaurants-finder/static/js/2.01d360e3.chunk.js.map",
+    "index.html": "/projects/restaurants-finder/index.html",
+    "precache-manifest.23bc9412be0bc2924fd38e912c60a9e8.js": "/projects/restaurants-finder/precache-manifest.23bc9412be0bc2924fd38e912c60a9e8.js",
+    "service-worker.js": "/projects/restaurants-finder/service-worker.js",
+    "static/css/main.365ec8f8.chunk.css.map": "/projects/restaurants-finder/static/css/main.365ec8f8.chunk.css.map",
+    "static/js/2.01d360e3.chunk.js.LICENSE.txt": "/projects/restaurants-finder/static/js/2.01d360e3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/projects/restaurants-finder/static/media/Restaurant-Food.56398120.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f67b3c3f.js",
+    "static/js/2.01d360e3.chunk.js",
+    "static/css/main.365ec8f8.chunk.css",
+    "static/js/main.d5e8e4ed.chunk.js"
+  ]
+}
